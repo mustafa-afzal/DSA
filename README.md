@@ -9,9 +9,6 @@ window, binary search, stack, linked list, etc.) rather than one file per proble
 each file reads as a running log of a single topic. Every solution is commented with
 the problem name above it.
 
-The goal here is pattern recognition — being able to look at a new problem and know
-which technique it wants — not memorizing individual answers.
-
 ## [scratchwork/](scratchwork/)
 
 Where I actually learn the concepts. Instead of just using Python's built-ins, I
