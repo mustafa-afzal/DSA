@@ -18,7 +18,7 @@ class Solution:
 
         return root
 
-# Max Depth of a Binary Tree
+# Maximum Depth of a Binary Tree
 # 
 # # Definition for a binary tree node.
 # class TreeNode:
